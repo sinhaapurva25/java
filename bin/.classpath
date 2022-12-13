@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Swing 20180419/Swing 20180419/|30 inheritance/|ThreadCreate/src/|29 interface/|Calculator_Netbeans/src/|Thread last and Collections/src/|ThreadDemo/src/|CalculatorDemo_Netbeans/src/|Others_Eclipse/src/|20180505 File Handling/|28 abstraction/|ThreadPreventingThreadExecution/src/|31 exception handling/|ThreadDeadlock/src/|32 Data Structure/" kind="src" path=""/>
+	<classpathentry kind="src" path="20180505 File Handling"/>
+	<classpathentry kind="src" path="28 abstraction"/>
+	<classpathentry kind="src" path="29 interface"/>
+	<classpathentry kind="src" path="30 inheritance"/>
+	<classpathentry kind="src" path="31 exception handling"/>
+	<classpathentry kind="src" path="32 Data Structure"/>
+	<classpathentry kind="src" path="Calculator_Netbeans/src"/>
+	<classpathentry kind="src" path="CalculatorDemo_Netbeans/src"/>
+	<classpathentry kind="src" path="Others_Eclipse/src"/>
+	<classpathentry kind="src" path="Swing 20180419/Swing 20180419"/>
+	<classpathentry kind="src" path="Thread last and Collections/src"/>
+	<classpathentry kind="src" path="ThreadCreate/src"/>
+	<classpathentry kind="src" path="ThreadDeadlock/src"/>
+	<classpathentry kind="src" path="ThreadDemo/src"/>
+	<classpathentry kind="src" path="ThreadPreventingThreadExecution/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
